@@ -84,10 +84,10 @@ html, body {
 
 h1 {
 	/* <link rel="stylesheet" href="https://use.typekit.net/hii6rhr.css"> */
-	font-family: "yink", sans-serif;
+	font-family: "groupie-gloss", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 2em;
+	font-size: 5em;
     margin: 50px auto 20px auto;
     color: #ffffff;
 }
@@ -97,7 +97,7 @@ h2 {
 	 font-family: "groupie-gloss", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 1.5em;
+	font-size: 3em;
     line-height: 1.4;
     color: #e8fcff;
     padding: 0px 0px;
@@ -109,13 +109,13 @@ p {
 	font-family: "quirkwood-text", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 1.2em;
+	font-size: 2em;
     line-height: 1.6;
-    color: #09448d;
+    color: #0e2645;
 }
 nav{
 	font-family:"quirkwood-text", sans-serif;
-	font-size: 1.2em;
+	font-size: 1.6em;
 	width:400px;
 	margin: 0 auto;
 	border: ridge limegreen;
